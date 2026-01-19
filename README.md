@@ -1,4 +1,4 @@
-A visually appealing and responsive Coffee Website built using HTML and CSS, designed to showcase a coffee shop’s offerings and provide a seamless user experience.
+A visually appealing and responsive Coffee Website built using HTML and CSS(internal), designed to showcase a coffee shop’s offerings and provide a seamless user experience.
 
 ** Features**
 
